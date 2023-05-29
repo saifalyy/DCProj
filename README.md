@@ -2,8 +2,11 @@
 
 The demand for decentralization has surged exponentially in the recent past, with high chance of growing further in the coming future.
 In this project we focus on implementing a decentralized version of Twitter with following functionalities. 
+
     1) Meta-mask based authentication.
+    
     2) Functionality to add and manage Tweets.
+    
     3) Minting your profile picture as an NFT
     
     
